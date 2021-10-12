@@ -1,11 +1,3 @@
-# Cube-Rotation
-Cube Rotation, designed cube and added some function to rotate clockwise and anticlockwise also added velocity option to increase the speed of rotation. Designed using Presto with ELM architecture and Purescript language.
-
-
-#SETUP
-1. Open terminal with the project_dir
-2. npm i && bower i
-3. npm run watch
-4. Open $project_dir/dist/index.html
-
-Dev Workflow: Make changes to files in src and it will automatically compile. Reload index.html in the browser.
+Hi 
+Can you please make this repo private or remove this code from github. There are some company policies legal issues in which I am getting drag into.
+Please help with this.
